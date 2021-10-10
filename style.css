@@ -1,0 +1,128 @@
+#Img1{
+
+    height: 40px;
+    width: 40px;
+}
+
+
+#label1{
+
+    color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+#body{
+
+    background-size:cover
+}
+#label2{
+
+
+    float:left;
+    color:darkmagenta;
+}
+#label3{
+
+  
+    float:left;
+    color: darkmagenta;
+
+}
+
+
+#user_name{
+
+    width: 300px;
+}
+
+#login{
+
+    color:greenyellow;
+
+    background-color:darkcyan;
+    width: 250px;
+}
+
+#add_room{
+
+    
+
+    height: 30px;
+    width: 150px;
+
+}
+
+
+#room_name{
+
+    width: 150px;
+    height: 30px;
+    float: none;
+    
+}
+
+#body{
+    background-color: darkcyan;
+}
+#logout{
+
+    float: right;
+    background-color:lightsalmon;
+    width: 150px;
+    height: 30px;
+}
+
+
+#label2{
+
+    font-size: 50px;
+   
+}
+#label3{
+
+    font-size: 25px;
+    color: maroon;
+}
+
+
+#text_input{
+
+    height: 30px;
+    width: 200px;
+}
+
+#like_button{
+
+    background-color: yellow;
+    width :200px;
+    height: 30px;
+}
+
+#send_button{
+
+    width :100px;
+    height:30px;
+}
+
+    #container{
+
+        background-color: teal;
+    }
+
+    #chat_div{
+
+        background-color: coral;
+        width: 1517px;
+      
+        height:750px;
+
+        float:none ;
+
+    }
+
+    #label_chat{
+
+        font-size: 40px;
+    }
+    #img_chat{
+
+        float: left;
+    }
